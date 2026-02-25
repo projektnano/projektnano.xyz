@@ -4,6 +4,9 @@ Grundar sig på en filosofi om att att allt innehåll faktiskt kan levereras **f
 
 Filosofin är en sak, att skapa något som använder best practice och som följer de riktlinjer mm som finns från W3c (The World Wide Web Consortium) är till och från något annat, varav det alltid kommer råda olika perspektiv gällande vad som är just "best practice" och inte.
 
+**Utseende kommer att ändras.**
+![Temporär projektnano.xyz webbsida](pn.png "Temporär projektnano.xyz webbsida")
+
 ## W3c - validering av...
 
 Att skapa det som är tänkt att komma här inom kort är till stor del en subjektiv åsikt medans olika verktyg för validering av HTML, CSS m.m som [W3c tillhandahåller](https://www.w3.org/developers/tools/)  inte alltid enligt vissa åsikter, samt vissa webbläsare, är korrekt - så faller valet på att förhålla sig till W3c.
