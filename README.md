@@ -7,6 +7,8 @@ Filosofin är en sak, att skapa något som använder best practice och som följ
 **Utseende kommer att ändras.**
 ![Temporär projektnano.xyz webbsida](pn.png "Temporär projektnano.xyz webbsida")
 
+![projektnano.xyz artikelgrid](pn-art.png "projektnano.xyz artikelgrid")
+
 ## W3c - validering av...
 
 Att skapa det som är tänkt att komma här inom kort är till stor del en subjektiv åsikt medans olika verktyg för validering av HTML, CSS m.m som [W3c tillhandahåller](https://www.w3.org/developers/tools/)  inte alltid enligt vissa åsikter, samt vissa webbläsare, är korrekt - så faller valet på att förhålla sig till W3c.
